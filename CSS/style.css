@@ -1,0 +1,13 @@
+h1{
+    background-color: bisque;
+    color: rgba(31, 3, 86, 0.929);
+    text-align: center;
+}
+p{
+    width: 500px;
+    height: 400px;
+    border: 10px solid bisque;
+    margin: 10px;
+    padding: 10px;
+    
+}
